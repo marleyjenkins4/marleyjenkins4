@@ -19,4 +19,4 @@ Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marleyjenkins4&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marleyjenkins4&hide=javascript,css,scss,html&theme=tokyonight)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marleyjenkins4)](https://github.com/marleyjenkins4/github-readme-stats)
