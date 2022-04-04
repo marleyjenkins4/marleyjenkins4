@@ -18,4 +18,5 @@ Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marleyjenkins4&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?marleyjenkins4" frameborder="0"></iframe>
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=tokyonight)
