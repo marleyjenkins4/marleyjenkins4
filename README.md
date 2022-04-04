@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 - 🔭 I’m currently working on two web applications for local businesses in Rock Hill, SC
 - 🌱 I’m currently learning Flutter
