@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-- 🔭 I’m currently working on two web applications for local businesses in Rock Hill, SC
+- 🔭 I’m currently working on two group web applications for local businesses in Rock Hill, SC
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: marleyjenkins4@gmail.com
